@@ -1,0 +1,11 @@
+# Ignorer les fichiers compilés Python
+__pycache__/
+*.py[cod]
+
+# Ignorer les fichiers de configuration locaux
+.env
+.vscode/
+
+# Ignorer les fichiers/dossiers spécifiques
+python/api/recommendation_objects/
+
